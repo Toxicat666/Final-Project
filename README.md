@@ -7,3 +7,11 @@ The goal of the project is prevent people from burn themselves by hot water in t
 -Battery
 -A chip, to transfer heat data into commands to LED lights
 -Heat sensor
+## Challenges
+The sensor will be put in liquid so I need to find a way to make all the components water-proof
+## Timeline
+1-Order a heat sensor,some LED lights,some wires, a thermos 
+2-Build a first version & work on the code
+3-Put them into the thermos and work on making it water proof
+4-Test and debug
+5-Present complete project
